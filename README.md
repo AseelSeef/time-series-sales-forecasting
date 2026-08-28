@@ -69,7 +69,7 @@ XGBoost · TensorFlow/Keras · Hyperopt · KerasTuner · Matplotlib
 ## 📁 Repository
 
 - `sales_demand_forecasting.ipynb` — complete implementation and experiments
-- `report/sales_demand_forecasting_report.pdf` — detailed analysis, results
+- `sales_demand_forecasting_report.pdf` — detailed analysis, results
   and recommendations
 - `requirements.txt` — Python dependencies
 
