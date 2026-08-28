@@ -1,0 +1,11 @@
+numpy<2.0
+pandas
+matplotlib
+statsmodels
+pmdarima
+scikit-learn
+xgboost
+hyperopt
+tensorflow
+keras-tuner
+openpyxl
